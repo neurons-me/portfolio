@@ -2,7 +2,7 @@
 
 const config = {
   github: {
-    username: 'suign', // Your GitHub org/user name. (Required)
+    username: 'neurons-me', // Your GitHub org/user name. (Required)
     sortBy: 'stars', // stars | updated
     limit: 4, // How many projects to display.
     exclude: {
@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    instagram: 'jabella.e',
+    instagram: 'neurons.me',
     website: 'https://neurons.me'
   },
   resume: {
