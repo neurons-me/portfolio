@@ -6,10 +6,10 @@
   "author": "arifszn",
   "repository": {
     "type": "git",
-    "url": "https://github.com/suign/portfolio.git"
+    "url": "https://github.com/neurons-me/portfolio.git"
   },
   "bugs": {
-    "url": "https://github.com/suign/portfolio/issues"
+    "url": "https://github.com/neurons-me/portfolio/issues"
   },
   "files": [
     "dist/gitprofile.es.js",
