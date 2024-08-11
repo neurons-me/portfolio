@@ -117,7 +117,7 @@ const config = {
   },
   // Track visitor interaction and behavior. https://www.hotjar.com
   themeConfig: {
-    defaultTheme: 'cupcake',
+    defaultTheme: 'dark',
 
     // Hides the switch in the navbar
     // Useful if you want to support a single color mode
