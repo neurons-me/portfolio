@@ -18,17 +18,14 @@ const config = {
     fileUrl:
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
-  skills: [
-    'JavaScript',
-    'TypeScript',
-    'ECMAScript',
-    'React',
-    'React Native',
+  keyword: [
+    'ai',
+    'Machine Learning',
+    'Applications',
+    'Data Structures',
+    'Deep Learning',
     'Node.js',
-    'Next.js',
-    'Express.js',
-    'PostgreSQL',
-    'Octave'
+    'Javascript'
   ],
   experiences: [
     {
