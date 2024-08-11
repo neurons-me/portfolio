@@ -18,7 +18,7 @@ const config = {
     fileUrl:
       '', // Empty fileUrl will hide the `Download Resume` button.
   },
-  keyword: [
+  skills: [
     'ai',
     'Machine Learning',
     'Applications',
